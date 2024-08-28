@@ -2,4 +2,4 @@ a new file!
 
 int a;
 
-a = 10;
+a = 5;
